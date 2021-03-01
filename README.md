@@ -1,6 +1,6 @@
 # Cowtopia
 
-Visit: 
+Visit: https://cowtopia.herokuapp.com/
 
 ## Stack
 - Java
